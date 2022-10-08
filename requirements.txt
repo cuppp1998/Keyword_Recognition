@@ -1,4 +1,4 @@
 moviepy==1.0.3
 pocketsphinx
-speech-recognition
+SpeechRecognition
 vosk
