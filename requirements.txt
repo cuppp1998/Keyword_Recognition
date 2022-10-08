@@ -1,0 +1,4 @@
+moviepy==1.0.3
+pocketsphinx==0.1.15
+speech-recognition==3.8.1
+vosk==0.3.44
